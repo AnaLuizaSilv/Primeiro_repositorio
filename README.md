@@ -12,3 +12,5 @@ Neste momento, o repositório está em construção e estamos ainda atualizando 
 
 Aprendendo a fazer um commit local.
 
+Testando a modificação de dois arquivos
+
