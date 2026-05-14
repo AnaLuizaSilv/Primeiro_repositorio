@@ -12,5 +12,6 @@ Neste momento, o repositório está em construção e estamos ainda atualizando 
 
 Aprendendo a fazer um commit local.
 
-Testando a modificação de dois arquivos
+Testando a modificação de dois arquivos.
 
+Alterando um arquivo na nuvem quando existe um arquivo local.
