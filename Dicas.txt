@@ -1,3 +1,6 @@
 Sempre coloque boas mensagens nos commits
 Teste de modificação de dois arquivos
 Trabalhe sempre no ramo de desenvolvimento e depois espelhe as mudanças para o ramo principal
+
+Dica teste
+Dica teste no ramo dev
