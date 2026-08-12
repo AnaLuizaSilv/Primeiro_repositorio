@@ -15,3 +15,6 @@ Aprendendo a fazer um commit local.
 Testando a modificação de dois arquivos.
 
 Alterando um arquivo na nuvem quando existe um arquivo local.
+
+teste
+
